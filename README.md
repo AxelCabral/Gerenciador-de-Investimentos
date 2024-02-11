@@ -14,10 +14,10 @@ Sistema para fazer controle de investimentos da bolsa de valores ou pessoais
 [X] É possível visualizar o valor total de investimentos pessoais <br>
 
 
-Tecnologias utilizada
-PHP
-HTML
-CSS
-JAVASCRIPT
-JQUERY
-LORDICONS
+## Tecnologias utilizadas
+- PHP
+- HTML
+- CSS
+- JavaScript
+- JQuery
+- LordIcons
