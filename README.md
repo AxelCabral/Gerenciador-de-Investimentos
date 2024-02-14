@@ -3,7 +3,7 @@ Sistema para fazer controle de investimentos da bolsa de valores ou pessoais
 
 - É possível Realizar Aportes para investir <br>
 - É possível Editar e Excluir Aportes de Investimento <br>
-- É possível Registrar, Editar e Excluir Invesitimentos de Ações <br>
+- É possível Registrar, Editar e Excluir Investimentos de Ações <br>
 - É possível Registrar, Editar e Exclui Investimentos de ETFs <br>
 - É possível Registrar, Editar e Excluir Investimentos de FIIs <br>
 - É possível Registrar, Editar e Exclui Investimentos de BDRs <br>
